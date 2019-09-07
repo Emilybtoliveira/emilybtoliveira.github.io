@@ -36,3 +36,17 @@ hr{
     font-size: 14px;
     color: rgb(168, 164, 164);
 }
+
+#educacaoUl{
+    list-style-image: url('ulImg.png');
+    padding-top: 5px;
+}
+
+#publicacoesUl{
+    list-style-image: url('docUL.png'); 
+}
+
+.publicacoesDiv{
+    padding: 50px;
+    background-color: rgb(230, 230, 230);
+}
