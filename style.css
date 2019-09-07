@@ -31,3 +31,8 @@ hr{
     background-color: black;
     border: 0.5px solid;
 }
+
+.listItem{
+    font-size: 14px;
+    color: rgb(168, 164, 164);
+}
