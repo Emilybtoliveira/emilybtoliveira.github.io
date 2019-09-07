@@ -1,0 +1,33 @@
+.imgIcon{
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+}
+
+.biografiaDiv{
+    position: relative;
+    padding: 5%;
+    text-align: center;
+}
+
+h1, h3, h6{
+    font-family: 'Times New Roman', Times, serif;
+    font: normal;
+}
+
+.socialIcons{
+    width: 40px;
+}
+
+.socialGroup{
+
+}
+
+.bioTxt{
+    text-align: left;
+}
+
+hr{
+    background-color: black;
+    border: 0.5px solid;
+}
