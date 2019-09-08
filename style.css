@@ -53,7 +53,7 @@ body{
 
 .publicacoesDiv{
     padding: 50px;
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(243, 243, 243);
 }
 
 .projetosDiv{
@@ -62,5 +62,11 @@ body{
 
 .hobbiesDiv{
     padding: 50px;
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(243, 243, 243);
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(227, 243, 79);
+    font-weight: bold;
 }
