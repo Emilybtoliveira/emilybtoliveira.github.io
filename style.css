@@ -6,7 +6,7 @@
 
 .biografiaDiv{
     position: relative;
-    padding: 5%;
+    padding: 10%;
     text-align: center;
 }
 
@@ -16,11 +16,12 @@ h1, h3, h6{
 }
 
 .socialIcons{
+    flex: 0 0 20px;
     width: 40px;
 }
 
 .socialGroup{
-
+    align-items: center;
 }
 
 .bioTxt{
@@ -30,6 +31,10 @@ h1, h3, h6{
 hr{
     background-color: black;
     border: 0.5px solid;
+}
+
+body{
+    block-size: 50
 }
 
 .listItem{
@@ -47,6 +52,15 @@ hr{
 }
 
 .publicacoesDiv{
+    padding: 50px;
+    background-color: rgb(230, 230, 230);
+}
+
+.projetosDiv{
+    padding: 50px;
+}
+
+.hobbiesDiv{
     padding: 50px;
     background-color: rgb(230, 230, 230);
 }
