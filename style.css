@@ -10,7 +10,7 @@
     text-align: center;
 }
 
-h1, h3, h6{
+h1, h3, h5{
     font-family: 'Times New Roman', Times, serif;
     font: normal;
 }
@@ -44,7 +44,7 @@ body{
 
 #educacaoUl{
     list-style-image: url('ulImg.png');
-    padding-top: 5px;
+    padding-top: 5%;
 }
 
 #publicacoesUl{
@@ -60,9 +60,13 @@ body{
     padding: 50px;
 }
 
+.atvacaDiv{
+    padding: 50px;
+    background-color: rgb(243, 243, 243);  
+}
+
 .hobbiesDiv{
     padding: 50px;
-    background-color: rgb(243, 243, 243);
 }
 
 footer{
