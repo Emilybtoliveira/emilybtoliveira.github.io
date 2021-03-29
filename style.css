@@ -6,7 +6,8 @@
 
 .biografiaDiv{
     position: relative;
-    padding: 10%;
+    padding-top: 15%;
+    padding-bottom: 5%;
     text-align: center;
 }
 
@@ -18,10 +19,6 @@ h1, h3, h5{
 .socialIcons{
     flex: 0 0 20px;
     width: 40px;
-}
-
-.socialGroup{
-    align-items: center;
 }
 
 .bioTxt{
